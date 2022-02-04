@@ -458,7 +458,7 @@ div#sea {
   right: 25px;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 500px) {
   .icons {
     left: 30px;
   }
